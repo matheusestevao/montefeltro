@@ -1,0 +1,251 @@
+*{
+}
+a:link, a:visited, a:active{
+							text-decoration:none;
+							font-family:Arial;
+							font-weight:bold;
+							color:black;
+							}
+							
+a:hover{
+		text-decoration:none;
+		color:red;
+		font-weight:bold;
+		}
+		
+body{
+	text-align:center;
+	position:relative;
+	}
+
+tbody tr:nth-child(odd) {
+    background-color:#CDC9C9;
+} 
+
+#cabecalho {
+			text-align:center;
+			font-size:60px;
+			font-family:Arial
+			}
+
+#nome{
+      font-family:Arial Black;
+      color: red;
+      font-size:53px;
+      margin-left:12px;     
+     }
+
+#nome2{
+     font-size:40px;
+     }
+
+#nome3{
+      font-family:Arial Black;
+      color: red;
+      font-size:43px;
+      margin-left:12px;
+      text-align:center;
+     }
+
+#nome4{
+     font-size:30px;
+     text-align:center;
+     font-family:Arial;
+     }
+
+#nome5{
+     font-size:20px;
+     text-align:center;
+     font-family:Arial;
+     }
+			
+#login{
+		text-align:center;
+		margin-top:170px;
+		border:1px solid black;
+		width:280px;
+		height:175px;
+		box-shadow: black 0.5em 0.5em 0.3em;
+		border-radius: 1em;
+                position:relative;
+	}
+	
+#cadastrar{
+        height:40px;
+	width:80px;
+        position:absolute;
+	right:0;
+	top:0;
+	z-index:2;
+}
+
+#link{
+     padding-right:170px;
+     }
+
+#link2{
+     padding-right:150px;
+     }
+
+#link3{
+     padding-right:150px;
+     }
+	  
+#teste{
+		text-align:center;
+		margin-top:80px;
+		box-shadow: black 0.5em 0.5em 0.3em;
+		border-radius: 1em;
+                position:relative;
+                width:280px;
+                height:325px;
+                border:1px solid black;
+		 }
+
+#teste2{
+		text-align:center;
+		margin-top:80px;
+		box-shadow: black 0.5em 0.5em 0.3em;
+		border-radius: 1em;
+                position:relative;
+                width:280px;
+                height:265px;
+                border:1px solid black;
+		 }
+
+#teste3{
+		text-align:center;
+		margin-top:80px;
+		box-shadow: black 0.5em 0.5em 0.3em;
+		border-radius: 1em;
+                position:relative;
+                width:280px;
+                height:405px;
+                border:1px solid black;
+		 }
+
+#msg{
+   text-align:center;
+}
+
+input{
+        border-radius: 10px;
+        text-align:center;
+         }
+
+select{
+        border-radius: 10px;
+        text-align:center;
+         }
+
+option{
+    margin-left:430px;
+    width:350px;
+    height:280px;
+    box-shadow: black 0.5em 0.5em 0.3em;
+    border-radius: 1em
+}
+
+#img_entrada{
+			box-shadow: black 0.5em 0.5em 0.3em;
+			border-radius: 1em;
+			width:250px;
+			height:230px;
+			}
+
+#img_retirada{
+			box-shadow: black 0.5em 0.5em 0.3em;
+			border-radius: 1em;
+			width:250px;
+			height:230px;
+			 }	
+		  
+#img_entregue{
+		    box-shadow: black 0.5em 0.5em 0.3em;
+		    border-radius: 1em;
+			width:250px;
+			height:230px;
+			 }
+			 
+#img_entregue2{
+		    box-shadow: black 0.5em 0.5em 0.3em;
+		    border-radius: 1em;
+			width:250px;
+			height:230px;
+			 }
+			 
+#img_usuario{	
+			box-shadow: black 0.5em 0.5em 0.3em;
+			border-radius: 1em;
+			width:250px;
+			height:230px;
+			 }
+			 
+#img_power{
+		    box-shadow: black 0.5em 0.5em 0.3em;
+		    border-radius: 1em;
+			width:230px;
+			height:80px;
+			 }
+			 
+#lista_ent2{
+			left:300px;
+		    position: absolute;
+			top:200px;
+			}
+			
+#lista_sai2{
+			left:800px;
+		    position: absolute;
+			top:200px;
+			}
+			
+#lista_ent{
+			left:300px;
+		    position: absolute;
+			margin-top:50px;
+			}
+			
+#lista_sai{
+			left:800px;
+		    position: absolute;
+			margin-top:35px;
+			}
+			
+#lista_sai3{
+			left:800px;
+		    position: absolute;
+			top:500px;
+			}
+
+#lista_sai4{
+			left:545px;
+		    position: absolute;
+			top:500px;
+			}
+			
+#lista_power{
+			left:565px;
+		    position: absolute;
+			top:530px;
+			}
+			
+#usuario_cada{
+			left:300px;
+		    position: absolute;
+			top:500px;
+			}
+			  
+#img{
+	box-shadow: black 0.5em 0.5em 0.3em;
+	border-radius: 1em;
+	width:250px;
+	height:230px;
+	}
+	
+#img2{
+	box-shadow: black 0.5em 0.5em 0.3em;
+	border-radius: 1em;
+	width:250px;
+	height:230px;
+	}	
